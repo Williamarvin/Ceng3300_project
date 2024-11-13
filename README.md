@@ -1,4 +1,4 @@
-Install RdKit
-Install pandas
-Install Numpy
+Install RdKit, 
+Install pandas, 
+Install Numpy, 
 Install sklearn
